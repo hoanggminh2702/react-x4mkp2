@@ -4,7 +4,7 @@
 
 .Header .master {
     background: no-repeat center center;
-    background-image: url(imgsource/background.jpg);
+    background-image: url('https://github.com/hoanggminh2702/react-x4mkp2/blob/master/src/page/MainPage/Header/imgsource/background.jpg');
     background-size: cover;
 }
 

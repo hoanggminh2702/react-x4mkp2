@@ -1,14 +1,14 @@
 import React from 'react';
 import {Link} from "react-router-dom";
 import "./NavBar.css"
-import logo from "../imgsource/ocean_logo.png"
+
 
 const Navbar = () => {
     return (
         <div className="container">
             <div className="navbar-collapse">
 
-                <img src={logo} style={{width: "15%", height: "15%"}}/>
+                <img src={'https://github.com/hoanggminh2702/react-x4mkp2/blob/master/src/page/MainPage/Header/imgsource/ocean_logo.png'} style={{width: "15%", height: "15%"}}/>
 
                 <div>
                     <ul className="navbar-items">
