@@ -1,0 +1,25 @@
+
+.Footer .container .row .component {
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+    justify-content: center;
+
+
+}
+
+.contact {
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+.svg-inline--fa.fa-w-16 {
+    width: 4em;
+    height: 4em;
+    padding: 0 10px;
+}
+
+.svg-inline--fa.fa-w-14 {
+    width: 4em;
+    height: 4em;
+}

@@ -1,0 +1,26 @@
+.content {
+    padding: 7% 0;
+    position: relative;
+}
+
+.content .row {
+    text-align: center;
+}
+
+.content .container {
+    padding-bottom: 5%;
+}
+
+.content .container h1 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 5em;
+    font-weight: 400;
+    color: aliceblue;
+}
+
+.content .container .subTitle {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.5em;
+    font-weight: 300;
+    color: aliceblue;
+}

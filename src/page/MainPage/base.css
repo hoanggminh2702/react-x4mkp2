@@ -1,0 +1,65 @@
+body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    vertical-align: baseline;
+}
+
+.master {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    position: relative;
+}
+
+
+.navbar {
+
+}
+
+.container {
+    display: block;
+    min-width: 500px;
+    max-width: 1200px;
+    margin: auto;
+    position: relative;
+}
+
+.row {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    flex-wrap: wrap;
+    margin: 0 15%;
+}
+
+.component {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    flex-wrap: wrap;
+    border-bottom: 1px #ccc;
+}
+
+h1 {
+    font-size: 100%;
+    margin: 0;
+}
+
+h2 {
+    font-size: 100%;
+    margin: 0;
+}
+
+h3 {
+    font-size: 100%;
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+p {
+    margin: 0;
+}

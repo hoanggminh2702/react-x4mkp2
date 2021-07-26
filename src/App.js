@@ -1,11 +1,12 @@
+import './App.css';
 import React from "react";
-import "./style.css";
+import MainPage from "./page/MainPage/MainPage";
 
-export default function App() {
+
+function App() {
   return (
-    <div>
-      <h1>Hello StackBlitz!</h1>
-      <p>Start editing to see some magic happen :)</p>
-    </div>
+      <MainPage/>
   );
 }
+
+export default App;

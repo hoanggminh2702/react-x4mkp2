@@ -1,0 +1,23 @@
+.Header {
+    margin-bottom: 70px;
+}
+
+.Header .master {
+    background: no-repeat center center;
+    background-image: url(imgsource/background.jpg);
+    background-size: cover;
+}
+
+.master .overlay {
+    background-color: #212529;
+    background-size: cover;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    opacity: 0.6;
+}
+
+.navbar {
+    display: block;
+    text-align: center;
+}
